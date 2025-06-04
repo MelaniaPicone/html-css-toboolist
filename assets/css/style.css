@@ -21,11 +21,23 @@ ul {
 }
 
 h2 {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 20px;
-font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
 
 }
+
+li {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
+
+p {
+line-height: 2em;
+display: inline-block;
+}
+
 
 #band {
   background-color: #FEFEFE;
@@ -83,7 +95,6 @@ font-weight: bold;
   border: 1px solid #a4a6a8;
   display: inline-block;
 }
-
 .secondbox {
 
   margin: 0 auto;
@@ -94,4 +105,32 @@ font-weight: bold;
   padding-left: 50px;
   background-color: #FEFEFE;
   border-radius: 0px 0px 20px 20px;
+}
+
+
+.green {
+  width: 20px;
+  height: 20px;
+  color: green;
+  font-size: 10px;
+  border: 1px solid green;
+  border-radius: 50%;
+  text-align: center;
+  padding: 2px;
+display: inline-block;
+line-height: none;
+}
+
+.red {
+  width: 20px;
+  height: 20px;
+color: red;
+font-size: 10px;
+border: 1px solid red;
+border-radius: 50%;
+text-align: center;
+  padding: 2px;
+display: inline-block;
+line height: none;
+
 }
