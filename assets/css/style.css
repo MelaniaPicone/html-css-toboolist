@@ -16,7 +16,9 @@ span {
   vertical-align: middle;
 }
 
-
+ul {
+  list-style-type: none;
+}
 
 #band {
   background-color: #FEFEFE;
