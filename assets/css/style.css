@@ -54,7 +54,7 @@ p {
 
 .container {
   margin: 0 auto;
-  max-width: 1100px;
+  max-width: 100%;
 }
 
 .box {
@@ -71,7 +71,7 @@ p {
 .bluebox {
   width: 80px;
   height: 30px;
-  background-color: #459FDB;
+  background-color: #41ACE7;
   border-radius: 5px;
   padding-top: 6px;
   color: #F6F8FA;
@@ -138,7 +138,7 @@ p {
 
 
 .blueed {
-  background-color: rgb(76, 132, 132);
+  background-color: #41ACE7;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
@@ -150,7 +150,7 @@ p {
 }
 
 .purplegoals {
-  background-color: rgb(99, 71, 103);
+  background-color: #9D74E5;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
@@ -162,7 +162,7 @@ p {
 }
 
 .greenrec {
-  background-color: rgb(67, 101, 62);
+  background-color: #62C1A6;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
@@ -174,7 +174,7 @@ p {
 }
 
 .oranmob {
-  background-color: rgb(193, 131, 69);
+  background-color: #D99133;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
@@ -186,7 +186,7 @@ p {
 }
 
 .pinkweb {
-  background-color: rgb(200, 87, 170);
+  background-color: #D765A2;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
@@ -198,7 +198,7 @@ p {
 }
 
 .sales {
-  background-color: rgb(69, 142, 72);
+  background-color: #9AB221;
   border-radius: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #F6F8FA;
