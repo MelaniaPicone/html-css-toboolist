@@ -34,8 +34,8 @@ li {
 
 
 p {
-line-height: 2em;
-display: inline-block;
+  line-height: 2.5em;
+  display: inline-block;
 }
 
 
@@ -95,6 +95,7 @@ display: inline-block;
   border: 1px solid #a4a6a8;
   display: inline-block;
 }
+
 .secondbox {
 
   margin: 0 auto;
@@ -117,20 +118,93 @@ display: inline-block;
   border-radius: 50%;
   text-align: center;
   padding: 2px;
-display: inline-block;
-line-height: none;
+  display: inline-block;
+  line-height: none;
 }
 
 .red {
   width: 20px;
   height: 20px;
-color: red;
-font-size: 10px;
-border: 1px solid red;
-border-radius: 50%;
-text-align: center;
+  color: red;
+  font-size: 10px;
+  border: 1px solid red;
+  border-radius: 50%;
+  text-align: center;
   padding: 2px;
-display: inline-block;
-line height: none;
+  display: inline-block;
+  line height: none;
 
+}
+
+
+.blueed {
+  background-color: rgb(76, 132, 132);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.purplegoals {
+  background-color: rgb(99, 71, 103);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.greenrec {
+  background-color: rgb(67, 101, 62);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.oranmob {
+  background-color: rgb(193, 131, 69);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.pinkweb {
+  background-color: rgb(200, 87, 170);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.sales {
+  background-color: rgb(69, 142, 72);
+  border-radius: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #F6F8FA;
+  font-size: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
